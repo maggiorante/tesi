@@ -66,9 +66,13 @@ def apply_brightness_contrast():
         if threshold_active:
             #_,buf=cv.threshold(buf,threshold, 255, threshold_type)
             blur_otsu = cv.GaussianBlur(buf,(7,7),0)
-            _,buf = cv.threshold(blur_otsu,0,255,cv.THRESH_BINARY+cv.THRESH_OTSU)
+            #_,buf = cv.threshold(blur_otsu,0,255,cv.THRESH_BINARY+cv.THRESH_OTSU)
             #buf=cv.adaptiveThreshold(buf,255,cv.ADAPTIVE_THRESH_GAUSSIAN_C, cv.THRESH_BINARY,17,2)
-            #buf=cv.adaptiveThreshold(buf,255,cv.ADAPTIVE_THRESH_MEAN_C, cv.THRESH_BINARY,17,2)
+            thr=cv.adaptiveThreshold(buf,255,cv.ADAPTIVE_THRESH_MEAN_C, cv.THRESH_BINARY,17,2)
+            edged = cv.Canny(thr, 30, 200)
+            contours, hierarchy = cv.findContours(edged, cv.RETR_EXTERNAL, cv.CHAIN_APPROX_NONE)
+            buf=img
+            cv.drawContours(buf, contours, -1, (0, 255, 0), 3)
         if cic!=0:
             buf=incicciottisci(255-buf,cic*2+1,shape=shape)
         if blur!=0:
@@ -97,7 +101,7 @@ img = cv.imread(args.image,0)
 if img is None:
     print('Could not open or find the image: ', args.image)
     exit(0)
-#img = cv.equalizeHist(img)
+img = cv.equalizeHist(img)
 #height, width = img.shape[:2]
 #if height==2056 and width==2464:
 #    img = cv.resize(img, (821,685))
