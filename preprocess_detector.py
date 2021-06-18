@@ -65,10 +65,10 @@ def apply_brightness_contrast():
     if for_tesseract:
         if threshold_active:
             #_,buf=cv.threshold(buf,threshold, 255, threshold_type)
-            blur_otsu = cv.GaussianBlur(buf,(7,7),0)
+            blur_otsu = cv.GaussianBlur(buf,(9,9),0)
             #_,buf = cv.threshold(blur_otsu,0,255,cv.THRESH_BINARY+cv.THRESH_OTSU)
             #buf=cv.adaptiveThreshold(buf,255,cv.ADAPTIVE_THRESH_GAUSSIAN_C, cv.THRESH_BINARY,17,2)
-            thr=cv.adaptiveThreshold(buf,255,cv.ADAPTIVE_THRESH_MEAN_C, cv.THRESH_BINARY,17,2)
+            thr=cv.adaptiveThreshold(blur_otsu,255,cv.ADAPTIVE_THRESH_MEAN_C, cv.THRESH_BINARY,17,2)
             edged = cv.Canny(thr, 30, 200)
             contours, hierarchy = cv.findContours(edged, cv.RETR_EXTERNAL, cv.CHAIN_APPROX_NONE)
             buf=img
