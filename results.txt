@@ -1,0 +1,275 @@
+Img0(['LOTTO:L20L0M\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['LOTTO.L20LOM\nSCAD.:12-2022\n', '2202-27.S\nWO1027:014107\n', 'SCAD.\n', 'S\n']
+	Tesseract result (dotslayer.traineddata): ['6LOTTOU62O6OM\n5CAD:11L2P2O22\n', '328O2P8IW2OWO\nKOOO6LLOLLOO\n', 'SCAD:\n', 'OW\n']
+	Tesseract result (ita.traineddata): ['LOTTO:L20LOM\nSCAD.:12-2022\n', '220-21.JYIS\nHO1027:01107\n', 'SCAD.\n', 'IS\n']
+	Tesseract result (eng.traineddata): ['LOTTO:L2O0LOM\nSCAD.:12-2022\n', '22O0-T.9S\nWO1W2ST-OL1107\n', 'SCAD.\n', 'J83S\n']
+Img1(['LOTTO:L20L0M\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['LOTTO: F\nSCAD.:12-202\n', '222-21.JS\nWD1027:01407\n', 'SCAD.\n', 'OS\n']
+	Tesseract result (dotslayer.traineddata): ['LOTTO U1\n5CAD:11L2222\n', '328O2P217OWJ\nKOO82LLOLL6OO\n', 'SCAD:\n', 'OW\n']
+	Tesseract result (ita.traineddata): ['LOTTO: L 0LGH\nSCAD.:12-202\n', 'E0-S1.YIS\nWO707:061107\n', 'SCAD:\n', 'UIS\n']
+	Tesseract result (eng.traineddata): ['LOTTO:\nSCAD.:12-202\n', '2O02-2T.O09S\nWOW27-OL107\n', 'SCAD.\n', '095\n']
+Img2(['L20K77\n11-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', 'O2-1I\n\nU\n', 'N\nN\n\n11-20\n', '2200277\n', 'L20OK77\n']
+	Tesseract result (dotslayer.traineddata): ['', '', '85ILI\n\nCR\n', 'U\nN\n\n112\n', 'LOT\n', 'LL2OK77\n']
+	Tesseract result (ita.traineddata): ['', '', 'DE-LI\n\nN\n', 'U\nU\n\n11-20\n', 'LEMO17\n', 'LECGK7F7\n']
+	Tesseract result (eng.traineddata): ['', '', 'O2-TH\n\nN\n', 'CY\n\n11-20\n', '22H0ET\n', 'LSOK7F\n']
+Img3(['L20K77\n11-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['4\n', 'P\n', '2202-11I\n', '11-2022\n', '22027\n', 'L20K77\n']
+	Tesseract result (dotslayer.traineddata): ['C0\n', 'G\n', '52OPILI\n', '11222\n', '6L6L1OT\n', 'L277\n']
+	Tesseract result (ita.traineddata): ['L\n', 'H\n', 'CO-FI\n', '112022\n', 'LEMO7\n', 'LO0OKF7\n']
+	Tesseract result (eng.traineddata): ['E\n', 'BJ\n', '2202-T\n', '11-2022\n', '22MDST\n', 'L2OKTF\n']
+Img4(['LOTTO:L20K6X\nSCAD.:11-2023\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['293-11:3S\nX31027.:044.00\n', 'LOTTO:L20O6X\nSCAD.:11-20.23\n']
+	Tesseract result (dotslayer.traineddata): ['EOJP11WJ5\nX8482L206490\n', 'LJOTT8LL28KEX\n5CADLL11P2O2\n']
+	Tesseract result (ita.traineddata): ['EI7-11.UUIS\nX31027:01107\n', 'LOTTO:L20HX\nSCAD.11-2023\n']
+	Tesseract result (eng.traineddata): ['E292-105GS\nX310272O0LL01\n', 'LOTTO:L20:X\nSCAD.11-26:23\n']
+Img5(['LOTTO:L20K6X\nSCAD.:11-2023\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['203-11:U3S\nY9021:00107\n', 'LOTTO:L20K6X\nSCAD.: 0 11-20 023\n']
+	Tesseract result (dotslayer.traineddata): ['E2OOP119WO5\nX02L0LT\n', 'KOT8SLL20L6\nSCAD : 1122 O23\n']
+	Tesseract result (ita.traineddata): ['EC07-11UYIS\nY31027:01107\n', 'LOTTO:L20K6X\nSCM. . 11..C 2\n']
+	Tesseract result (eng.traineddata): ['20:2-315GS\nY9102T20.L107\n', 'LOTTO:L20K6X\nSCAD.: 11-20 023\n']
+Img6(['LOTTO:L20K6X\nSCAD.:11-2023\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['S20-11:US\nX93J21:04407\n', 'LOTTO:L2CK6X\nSCAD.:11-2023\n']
+	Tesseract result (dotslayer.traineddata): ['S8OP51IS9NOJ5\n02228600\n', 'LTTLL2CK6X\n5CADLL11P202\n']
+	Tesseract result (ita.traineddata): ['SCO-11.UIS\nX94227:01107\n', 'LOTTO:L2CK6X\nSCAD.:11-2025\n']
+	Tesseract result (eng.traineddata): ['20-TTS-GS\nX9AI2TSOLLOT\n', 'LOTTO:L2CK6X\nSCAD.:11-2025\n']
+Img7(['LOTTO:L20K6X\nSCAD.:11-2023\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['202-11:GIS\nX021S0LI07\n', 'LOTYO0:L20K6X\nSCAD.:11-2023\n']
+	Tesseract result (dotslayer.traineddata): ['E021ULL9W05\nX0L296A\n', 'LT9LL20K6\n5ALL0L202\n']
+	Tesseract result (ita.traineddata): ['20-11:XW9S\nX94C2I0LE0I\n', 'LOTTO:L2IK6X\nSCAD.11-2023\n']
+	Tesseract result (eng.traineddata): ['202-11:S\nXONC27SOLEDT\n', 'LOTTO:L20K6X\nSCAD.211-2023\n']
+Img8(['L20L09\n12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '2202-21\n', '12-2022\n', '', '', '6071027\n', 'L20LO09\n']
+	Tesseract result (dotslayer.traineddata): ['', '', '222221\n', '12PP2O22\n', '', '', '692\n', 'K2LL99\n']
+	Tesseract result (ita.traineddata): ['', '', '22022-21\n', '12-2022\n', '', '', '6071071\n', 'L20L09\n']
+	Tesseract result (eng.traineddata): ['', '', '2202-21\n', '12-2022\n', '', '', '601027\n', 'L2OL09\n']
+Img9(['L20L09\n12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '2202-2\n', '12-2022\n', '', '', '607027\n', 'L20LO9\n']
+	Tesseract result (dotslayer.traineddata): ['', '', '222221\n', '1L2PP2O22\n', '', '', '62\n', 'K2OL929\n']
+	Tesseract result (ita.traineddata): ['', '', 'E20-21\n', '12-2022\n', '', '', '60771027\n', 'L20L09\n']
+	Tesseract result (eng.traineddata): ['', '', '2202-21\n', '12-2022\n', '', '', '607021\n', 'L2OLO9\n']
+Img10(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', 'LOTTO\nSCAD.\n', 'S\n01107\n']
+	Tesseract result (dotslayer.traineddata): ['', '', '68TT\n5C:\n', '382\nHNN\n']
+	Tesseract result (ita.traineddata): ['', '', 'LOTTO\nSCAD.\n', 'UIS\n01107\n']
+	Tesseract result (eng.traineddata): ['', '', 'LOTTO\nSCAD.\n', 'A3S\nO1107\n']
+Img11(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', 'SCAD.\n', 'OS\n']
+	Tesseract result (dotslayer.traineddata): ['', '', 'SCAP:\n', '85\n']
+	Tesseract result (ita.traineddata): ['', '', 'SCAD.\n', 'AUIS\n']
+	Tesseract result (eng.traineddata): ['', '', 'SCAD.\n', 'S\n']
+Img12(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['.\n\nA148\n', 'RHLY\n\nK\n']
+	Tesseract result (dotslayer.traineddata): ['F\n\n2618\n', 'G1\n\nLW\n']
+	Tesseract result (ita.traineddata): [':\n\nEB\n', 'BR\n\nEA\n']
+	Tesseract result (eng.traineddata): ['T:\n\nHE\n', 'BH\n\n.\n']
+Img13(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['0\n', '', '', '', '', '']
+	Tesseract result (dotslayer.traineddata): ['9\n\nCL\n', '', '', '', '', '']
+	Tesseract result (ita.traineddata): ['.\n\nJ.\n', '', '', '', '', '']
+	Tesseract result (eng.traineddata): ['2\n', '', '', '', '', '']
+Img14(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['NN\n', '.TI\nR:\n', '', '', '', '']
+	Tesseract result (dotslayer.traineddata): ['L952 38\n', 'T5\n66AG\n', '', '', '', '']
+	Tesseract result (ita.traineddata): [' CH. 26\n', 'T\nGA:\n', '', '', '', '']
+	Tesseract result (eng.traineddata): ['T 28\n', 'LOTTO\nW.\n', '', '', '', '']
+Img15(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '', '', '', '']
+	Tesseract result (dotslayer.traineddata): ['', '', '', '', '', '']
+	Tesseract result (ita.traineddata): ['', '', '', '', '', '']
+	Tesseract result (eng.traineddata): ['', '', '', '', '', '']
+Img16(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '9:\nS:\n:\nV1I\n', ': N S00 OL\n']
+	Tesseract result (dotslayer.traineddata): ['', '', '23\n57\n51:\n6\n', 'H 29 L\n']
+	Tesseract result (ita.traineddata): ['', '', '70  \nCE\n:.\nT\n', ': :L 2  .9.L\n']
+	Tesseract result (eng.traineddata): ['', '', 'P\nS:\nCP\nT93\n', ': L SOL OL\n']
+Img17(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['025\n2202-2:-0 O\nS369410\n', '10: L20LOL.\nOL0. 2-2022\n', 'OY\n', 'SCAD.\n', '', 'SCAD.\n']
+	Tesseract result (dotslayer.traineddata): ['92\n990959 12\n36910\n', '791 6298\n9O: 22O22\n', '79\n', '5CAC:\n', '795\n', '5CSAC:\n']
+	Tesseract result (ita.traineddata): ['. 99 \n2202-2:-  P\nS\n', '41D1 L20LOL.\nOL -2022\n', 'J3\n', 'SCAD.\n', 'JI3\n', 'SCAD.\n']
+	Tesseract result (eng.traineddata): ['22\n222-2:-9 .\nSG1OF4\n', 'L20.-\nOLO. 2-2022\n', 'J93\n', 'SCAD.\n', 'JI83\n', 'SCAD.\n']
+Img18(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', 'SCAD.\n', 'S\n', 'SCAD.\n', 'JS\n']
+	Tesseract result (dotslayer.traineddata): ['', '', '5CAC:\n', 'J\n', '5CADC:\n', 'L\n']
+	Tesseract result (ita.traineddata): ['', '', 'SCAD.\n', 'UIS\n', 'SCAD.\n', 'UIS\n']
+	Tesseract result (eng.traineddata): ['', '', 'SCAD.\n', '09S\n', 'SCAD.\n', 'S\n']
+Img19(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', 'SCAPD.\n', 'JS\n']
+	Tesseract result (dotslayer.traineddata): ['', '', '5C:\n', '8\n']
+	Tesseract result (ita.traineddata): ['', '', 'SCAD.\n', 'UIS\n']
+	Tesseract result (eng.traineddata): ['', '', 'SCAD.\n', '09S\n']
+Img20(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['I\n', 'J J\n', '1WS\n', '1-2\n', '', '']
+	Tesseract result (dotslayer.traineddata): ['11W\n', '5 FL\n', '2190\n', 'W182\n', '', '']
+	Tesseract result (ita.traineddata): ['1M\n', 'U I:\n', 'R.W\n', 'SUR:12-82\n', '', '']
+	Tesseract result (eng.traineddata): ['', '5\n', 'BE-T1WS\n', 'SOM512-822\n', '', '']
+Img21(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '.W\n', '01220\n', '', '', '', '', '', '']
+	Tesseract result (dotslayer.traineddata): ['', '', '2290\n', 'HL\n', '', '', '', '', '', '']
+	Tesseract result (ita.traineddata): ['', '', 'R1.W\n', 'STA.12-812\n', '', '', '', '', '', '']
+	Tesseract result (eng.traineddata): ['', '', 'GEI.WS\n', 'SM.12-\n', '', '', '', '', '', '']
+Img22(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', 'O\n', '', '', '', '04\n', '.\n', '', 'L\n', '', '']
+	Tesseract result (dotslayer.traineddata): ['', '', '12\n', '29\n', '', '', '8090\n', 'LLU\n', '', 'WTL\n', '', '']
+	Tesseract result (ita.traineddata): ['', '', '2\n', ':\n', '', '', 'GEOS\n', 'SA\n', '', 'LOTTO.IIA\n', '', '']
+	Tesseract result (eng.traineddata): ['', '', '2\n', '', '', '', 'GRUB\n', 'SMM2\n', '', 'LOTTE\n', '', '']
+Img23(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['TALS\n', '', '', '', '', '']
+	Tesseract result (dotslayer.traineddata): ['OU\n', '', '', '', '', '']
+	Tesseract result (ita.traineddata): ['WE\n', '', '', '', '', '']
+	Tesseract result (eng.traineddata): ['RWS\n', '', '', '', '', '']
+Img24(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '']
+	Tesseract result (dotslayer.traineddata): ['', '']
+	Tesseract result (ita.traineddata): ['', '']
+	Tesseract result (eng.traineddata): ['', '']
+Img25(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['239531\n\nA027\n', 'OS\n\nW\n12\n', '', '']
+	Tesseract result (dotslayer.traineddata): ['94021\n\n3821\n', '90\n\nLL2\n12\n', '', '']
+	Tesseract result (ita.traineddata): ['2 03-\n\n102\n', 'D\n\nL2\n12\n', '', '']
+	Tesseract result (eng.traineddata): ['2205554\n\n102\n', 'OS\n\nL2\n12\n', '', '']
+Img26(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['2-2\n05:31100307\n', '', '', 'SCAD.\n', '', 'SCAD.\n']
+	Tesseract result (dotslayer.traineddata): ['8\nKP:H166\n', '', '8\n', '5CAD:\n', '8\n', '5CAD:\n']
+	Tesseract result (ita.traineddata): ['UT-2\nEOIOLLO\n', '', 'UIE\n', 'SCAD.\n', 'UIE\n', 'SCAD.\n']
+	Tesseract result (eng.traineddata): ['O-2\nRDICSLOLLO\n', '', '3\n', 'SCAD.\n', '3\n', 'SCAD.\n']
+Img27(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['3\nAHU\n', 'LOTTO:\nLOT1035-N :\n', 'RIAV\n', 'JM\n']
+	Tesseract result (dotslayer.traineddata): ['K\n43\n', 'L8TTO1\nL118 1\n', 'RIC\n', 'NN\n']
+	Tesseract result (ita.traineddata): ['H\nHY2\n', 'LOTTO:\n CAD..12- :\n', 'DNE\n', 'ILT\n']
+	Tesseract result (eng.traineddata): ['H\n12\n', 'LOTTO:\nL 4\n', 'PE.\n', 'M\n']
+Img28(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['20-0:W5\n', 'I..2-0\n', '0DIGCTM\n', 'WJO10\n', '', '']
+	Tesseract result (dotslayer.traineddata): ['282\n', 'LT\n', '01OLC0W\n', '1V4V01O\n', '', '']
+	Tesseract result (ita.traineddata): ['-21.WS\n', 'SCA:12-22\n', '0IOC7NAI\n', '1W4IDIO0\n', '', '']
+	Tesseract result (eng.traineddata): ['2-2.\n', 'S122\n', 'OGCAS\n', 'WIO\n', '', '']
+Img29(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['20-0.W5\n', '9R..2-2\n', '00CON\n', '10J4JYIU0.\n', '', 'LOLA\n', '', '']
+	Tesseract result (dotslayer.traineddata): ['2820\n', 'N62\n', 'T0UCCC0W\n', '484VJ1UN\n', '', 'GTG\n', '', '']
+	Tesseract result (ita.traineddata): ['-2:WS\n', 'SCA.2-22\n', 'AIAFFA\n', '41043II.\n', '', 'UOTT0\n', '', '']
+	Tesseract result (eng.traineddata): ['BE-.WS\n', 'SM.2-2\n', 'IAAF\n', '1U309G\n', '', 'LOTTOSLLAL\n', '', '']
+Img30(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['SHO\n', 'W\n', '', '', '', '']
+	Tesseract result (dotslayer.traineddata): ['50W\n', 'X8\n', '', '', '', '']
+	Tesseract result (ita.traineddata): ['EH\n', 'SLE\n', '', '', '', '']
+	Tesseract result (eng.traineddata): ['I\n', 'LB\n', '', '', '', '']
+Img31(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '', '', '0\n2.0\n', '-\n\nO\nS\n']
+	Tesseract result (dotslayer.traineddata): ['', '', '', '', '9\n4:\n', ':\nL\n\n26\nEP\n']
+	Tesseract result (ita.traineddata): ['', '', '', '', 'U.I:\n..5\n', '-\n:.\n\n-\n.\n']
+	Tesseract result (eng.traineddata): ['', '', '', '', '2\n', '.\n']
+Img32(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['L2\n', '70\nDA\n4\n\n:0\n\n2O:\n\nO\n', 'SCAD.\n', 'S\n', '27-000\n\n-2022\n', '2-C\n\nN\n', '', '']
+	Tesseract result (dotslayer.traineddata): ['62\n', '72\nP5\n75\n\n:\n\nP21\n\n0WI\n\nVF\n', 'SCAP:\n', '385\n', '6:9:\n\n222822\n', '9999282\n\n5\n', '', '']
+	Tesseract result (ita.traineddata): ['L2\n', '20\nI\n21\n\n-0\n\n071:\n\nO\n\nM1\n', 'SCAD.\n', 'IS\n', '2\n\n22022\n', '3305 \n\n FX3\n', '', '']
+	Tesseract result (eng.traineddata): ['L2\n', '70\n-\nI\n\n6\n\n21:\n\nO\n', 'SCAD.\n', '493S\n', 'Y\n\n9-2022\n', '22-\n\nA\n', '', '']
+Img33(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['00\n57\n\nTO L20L0L\n\n: -C\n\n022\n', '23\n2-5J:\n235 852A: 01138\n']
+	Tesseract result (dotslayer.traineddata): ['O\n51\n\nT8 L286\n\n9:1 222\n\n822\n', '2\nP221:9H\n9955 EX 56195\n']
+	Tesseract result (ita.traineddata): ['NO\nID-I\n\nT0: L20L0L\n\n1 A 2\n\n022\n', 'W-:\n0--:\n..33 S: 0.1....3 \n']
+	Tesseract result (eng.traineddata): ['00\n34\n\n5O: L20.\n\nA\n\n022\n', 'G\nO2-:-\n2 F7: 01195\n']
+Img34(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['LMPPIIL20LUL\n', 'NI029.:AIW\n', 'N\n\n12-20\n', '', 'SCAD.\n', 'S\n', '', '', 'SCAD.\n', 'S\n']
+	Tesseract result (dotslayer.traineddata): ['KLX98L28O6V6\n', '30202708800\n', 'CV\n\nL228\n', '', '5A:\n', 'K6\n', '', '', '5A:\n', 'K6\n']
+	Tesseract result (ita.traineddata): ['LMBI:L20LU.\n', '1171027.:F\n', 'CJ\n\n12-20\n', '', 'SCAD.\n', 'AIS\n', '', '', 'SCAD.\n', 'AIS\n']
+	Tesseract result (eng.traineddata): ['LBBOL20LUL\n', '797027.:1\n', 'C\n\nL2-20\n', '', 'SCAD.\n', 'G38\n', '', '', 'SCAD.\n', 'G03S\n']
+Img35(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['WYOL.\n', 'ON\n', '', '', 'LOETO:L20LOL\n', '107027:01107\n', 'SCAD.\n', 'S\n', ':12-2022\n', '2-21:\n']
+	Tesseract result (dotslayer.traineddata): ['U\n', ':O\n', '', 'O6\n', 'GVIOL2O6O6\n', 'A824\n', '5CAD:\n', 'TW2\n', '122822\n', 'S8O8221\n']
+	Tesseract result (ita.traineddata): ['UG.\n', 'NN\n', '', 'M\n', 'LULRTO:L20LOL\n', '1010271014107\n', 'SC D.\n', 'AUIS\n', ':12-2022\n', 'G-.\n']
+	Tesseract result (eng.traineddata): ['6UL.\n', 'H\n', '', 'C\n', 'LURTO:L2OLOL\n', '1O7027:O01207\n', 'SCAD.\n', 'O03S\n', ':12-2022\n', 'O2-2\n']
+Img36([''])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '']
+	Tesseract result (dotslayer.traineddata): ['', '']
+	Tesseract result (ita.traineddata): ['', '']
+	Tesseract result (eng.traineddata): ['', '']
+Img37([''])
+	Tesseract result (LCDDot_FT_500.traineddata): [' \n', ' \n']
+	Tesseract result (dotslayer.traineddata): [' \n', ' \n']
+	Tesseract result (ita.traineddata): [' \n', ' \n']
+	Tesseract result (eng.traineddata): [' \n', ' \n']
+Img38(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '']
+	Tesseract result (dotslayer.traineddata): ['', '']
+	Tesseract result (ita.traineddata): ['', '']
+	Tesseract result (eng.traineddata): ['', '']
+Img39(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['NYANT\n', 'V\n', '', '', '', 'NY\n', '', 'M\n']
+	Tesseract result (dotslayer.traineddata): ['OWANY\n', '0\n', '', '', '', 'NN\n', '', 'NWN\n']
+	Tesseract result (ita.traineddata): ['ANO\n', 'MIS\n', '', '', '', 'UA\n', '', 'UA\n']
+	Tesseract result (eng.traineddata): ['NAM\n', 'MAVAG\n', '', '', '', '', '', '']
+Img40([''])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '']
+	Tesseract result (dotslayer.traineddata): ['', '']
+	Tesseract result (ita.traineddata): ['', '']
+	Tesseract result (eng.traineddata): ['', '']
+Img40_lowExp([''])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '']
+	Tesseract result (dotslayer.traineddata): ['', '']
+	Tesseract result (ita.traineddata): ['', '']
+	Tesseract result (eng.traineddata): ['', '']
+Img41([''])
+	Tesseract result (LCDDot_FT_500.traineddata): []
+	Tesseract result (dotslayer.traineddata): []
+	Tesseract result (ita.traineddata): []
+	Tesseract result (eng.traineddata): []
+Img42([''])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', 'T\n', '', 'N\nNA\nA..\n528\nN\n']
+	Tesseract result (dotslayer.traineddata): ['N6\n', 'TU\n', '', '252\n5:6\nN:\n6\n9\n']
+	Tesseract result (ita.traineddata): ['H\n', 'IM\n', '', 'F\nNA\n.\n..7\nI4..\n']
+	Tesseract result (eng.traineddata): ['LEE\n', 'TT\n', '', 'NN\nN.\nNN\n\n-.\n']
+Img42_lowExp([''])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '', '']
+	Tesseract result (dotslayer.traineddata): ['', '', '', '']
+	Tesseract result (ita.traineddata): ['', '', '', '']
+	Tesseract result (eng.traineddata): ['', '', '', '']
+Img43([''])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '', '', '', '']
+	Tesseract result (dotslayer.traineddata): ['', '', '', '', '', '']
+	Tesseract result (ita.traineddata): ['', '', '', '', '', '']
+	Tesseract result (eng.traineddata): ['', '', '', '', '', '']
+Img44([''])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', 'N.\nA\n']
+	Tesseract result (dotslayer.traineddata): ['', 'GX\n1\n']
+	Tesseract result (ita.traineddata): ['', '.\n-Y\n']
+	Tesseract result (eng.traineddata): ['', 'NG\n']
+Img45(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '.1202\n', '28491W\n']
+	Tesseract result (dotslayer.traineddata): ['', '', 'W282\n', '2610\n']
+	Tesseract result (ita.traineddata): ['', '', '1222\n', ':M\n']
+	Tesseract result (eng.traineddata): ['', '', 'SCAL2\n', 'BE2WS\n']
+Img46(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '..00\n', '2W5\n']
+	Tesseract result (dotslayer.traineddata): ['', '', 'W602\n', '8640\n']
+	Tesseract result (ita.traineddata): ['', '', 'SCA.12-22\n', 'U2.W\n']
+	Tesseract result (eng.traineddata): ['', '', 'SO1222\n', 'BELTS\n']
+Img47([''])
+	Tesseract result (LCDDot_FT_500.traineddata): []
+	Tesseract result (dotslayer.traineddata): []
+	Tesseract result (ita.traineddata): []
+	Tesseract result (eng.traineddata): []
+Img48([''])
+	Tesseract result (LCDDot_FT_500.traineddata): []
+	Tesseract result (dotslayer.traineddata): []
+	Tesseract result (ita.traineddata): []
+	Tesseract result (eng.traineddata): []
+Img49(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['R:WS\n', 'SOD.:102\n', ':U\n', '']
+	Tesseract result (dotslayer.traineddata): ['23000\n', '50222\n', 'TDBO1W0\n', '']
+	Tesseract result (ita.traineddata): ['RRRI:WS\n', 'SCAD.112-2022\n', 'VI1:0LUI\n', '']
+	Tesseract result (eng.traineddata): ['GR-21WS\n', 'SOW.S12-2R2\n', 'WTO\n', '']
+Img50(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): [':NV\n', 'A.6VIV\n', 'R21:WOS\n', 'SO.:122\n', '', '', 'N NP\n', 'IW ..\n']
+	Tesseract result (dotslayer.traineddata): ['02\n', 'AVULV\n', '22900\n', 'SWL222\n', '', '', 'N P92\n', ':X NW\n']
+	Tesseract result (ita.traineddata): [':N2V\n', 'A.2V:\n', 'ARRI:W\n', 'SCAD12-2022\n', '', '', 'E . 6P.\n', '..0.0 . .\n']
+	Tesseract result (eng.traineddata): ['N\n', 'AV\n', 'BRU1:WS\n', 'SOM.:12-202\n', '', '', 'Y\n', 'V ..\n']
+Img51(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', '', '', '', 'SH\n', 'J\n']
+	Tesseract result (dotslayer.traineddata): ['', 'TCW\n', '', '', '161\n', '661\n']
+	Tesseract result (ita.traineddata): ['', 'PE\n', '', '', 'T\n', 'J\n']
+	Tesseract result (eng.traineddata): ['', 'WR\n', '', '', 'I\n', 'M:\n']
+Img52(['LOTTO:L20L0L\nSCAD.:12-2022\n'])
+	Tesseract result (LCDDot_FT_500.traineddata): ['', 'RP\n', '', '']
+	Tesseract result (dotslayer.traineddata): ['', 'T0\n', '', '']
+	Tesseract result (ita.traineddata): ['', 'LLT\n', '', '']
+	Tesseract result (eng.traineddata): ['', 'TRUS\n', '', '']
