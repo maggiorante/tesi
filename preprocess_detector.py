@@ -2,6 +2,7 @@ from __future__ import print_function
 from __future__ import division
 import cv2 as cv
 import argparse
+import numpy as np
 
 contrast_max = 254
 brigthness_max = 254
@@ -63,16 +64,19 @@ def apply_brightness_contrast():
         buf = cv.addWeighted(buf, alpha_c, buf, 0, gamma_c)
     
     if for_tesseract:
+        filtered = cv.adaptiveThreshold(img.astype(np.uint8), 255, cv.ADAPTIVE_THRESH_MEAN_C,cv.THRESH_BINARY, 41,3)
         if threshold_active:
             #_,buf=cv.threshold(buf,threshold, 255, threshold_type)
             blur_otsu = cv.GaussianBlur(buf,(9,9),0)
-            _,buf = cv.threshold(blur_otsu,0,255,cv.THRESH_BINARY+cv.THRESH_OTSU)
+            _,thr = cv.threshold(blur_otsu,0,255,cv.THRESH_BINARY+cv.THRESH_OTSU)
             #buf=cv.adaptiveThreshold(buf,255,cv.ADAPTIVE_THRESH_GAUSSIAN_C, cv.THRESH_BINARY,17,2)
             #buf=cv.adaptiveThreshold(blur_otsu,255,cv.ADAPTIVE_THRESH_MEAN_C, cv.THRESH_BINARY,17,2)
+            buf = cv.bitwise_or(thr, filtered)
         if cic!=0:
             buf=incicciottisci(255-buf,cic*2+1,shape=shape)
         if blur!=0:
-            buf= cv.blur(buf,(blur*2+1,blur*2+1))
+            blurred= cv.blur(buf,(blur*2+1,blur*2+1))
+            _, buf = cv.threshold(blurred, 0, 255, cv.THRESH_BINARY + cv.THRESH_OTSU)
     else:
         if blur!=0:
             buf= cv.blur(buf,(blur*2+1,blur*2+1))
