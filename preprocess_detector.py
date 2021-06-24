@@ -62,15 +62,14 @@ def apply_brightness_contrast():
         gamma_c = 127*(1-f)
         
         buf = cv.addWeighted(buf, alpha_c, buf, 0, gamma_c)
-    
     if for_tesseract:
-        filtered = cv.adaptiveThreshold(img.astype(np.uint8), 255, cv.ADAPTIVE_THRESH_MEAN_C,cv.THRESH_BINARY, 41,3)
+        filtered = cv.adaptiveThreshold(img.astype(np.uint8), 255, cv.ADAPTIVE_THRESH_MEAN_C,cv.THRESH_BINARY, 61,3)
         if threshold_active:
             #_,buf=cv.threshold(buf,threshold, 255, threshold_type)
-            blur_otsu = cv.GaussianBlur(buf,(9,9),0)
+            blur_otsu = cv.GaussianBlur(buf,(7,7),0)
+            #blur_otsu = cv.GaussianBlur(buf,(7,7),0)   # Se con thresh mean
             _,thr = cv.threshold(blur_otsu,0,255,cv.THRESH_BINARY+cv.THRESH_OTSU)
-            #buf=cv.adaptiveThreshold(buf,255,cv.ADAPTIVE_THRESH_GAUSSIAN_C, cv.THRESH_BINARY,17,2)
-            #buf=cv.adaptiveThreshold(blur_otsu,255,cv.ADAPTIVE_THRESH_MEAN_C, cv.THRESH_BINARY,17,2)
+            #thr=cv.adaptiveThreshold(blur_otsu,255,cv.ADAPTIVE_THRESH_MEAN_C, cv.THRESH_BINARY,41,5)
             buf = cv.bitwise_or(thr, filtered)
         if cic!=0:
             buf=incicciottisci(255-buf,cic*2+1,shape=shape)
