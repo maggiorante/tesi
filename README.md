@@ -1,1 +1,2 @@
 # tesi
+Il file notebook_colab contiene il codice vero e proprio sviluppato mentre il secondo notebook contiene alcune prove fatte in locale e la parte di riconoscimento visto che questa non poteva essere eseguita su Colab che non permette di controllare tutte le opzioni di Tesseract. Il file results_4x4 contiene i risultati del riconoscimento, il file statistica la statistica fatta per i pochi casi d'esempio
